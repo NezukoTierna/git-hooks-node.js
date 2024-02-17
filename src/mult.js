@@ -1,5 +1,5 @@
-/*its only an operation*/
-const mult = (a,b) => a*b
+/* its only an operation */
+const mult = (a, b) => a * b;
 
-/*exports*/
-module.exports = mult
+/* exports */
+module.exports = mult;
