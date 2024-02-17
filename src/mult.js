@@ -1,5 +1,5 @@
-//its only an operation
+/*its only an operation*/
 const mult = (a,b) => a*b
 
-//exports
+/*exports*/
 module.exports = mult
